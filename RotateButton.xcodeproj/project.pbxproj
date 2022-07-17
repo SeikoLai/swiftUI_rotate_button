@@ -56,7 +56,7 @@
 				22C586B128843F90005971EF /* Assets.xcassets */,
 				22C586B328843F90005971EF /* Preview Content */,
 			);
-			path = RotateButton;
+			name = RotateButton;
 			sourceTree = "<group>";
 		};
 		22C586B328843F90005971EF /* Preview Content */ = {
