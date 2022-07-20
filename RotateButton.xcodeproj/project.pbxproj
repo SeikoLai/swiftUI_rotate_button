@@ -11,6 +11,7 @@
 		22C586B028843F8E005971EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C586AF28843F8E005971EF /* ContentView.swift */; };
 		22C586B228843F90005971EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C586B128843F90005971EF /* Assets.xcassets */; };
 		22C586B528843F90005971EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C586B428843F90005971EF /* Preview Assets.xcassets */; };
+		22DF7D2228859B6000BF9FE6 /* RotateButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DF7D2128859B6000BF9FE6 /* RotateButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		22C586AF28843F8E005971EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		22C586B128843F90005971EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22C586B428843F90005971EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		22DF7D2128859B6000BF9FE6 /* RotateButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				22C586AD28843F8E005971EF /* RotateButtonApp.swift */,
 				22C586AF28843F8E005971EF /* ContentView.swift */,
+				22DF7D2128859B6000BF9FE6 /* RotateButton.swift */,
 				22C586B128843F90005971EF /* Assets.xcassets */,
 				22C586B328843F90005971EF /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22C586B028843F8E005971EF /* ContentView.swift in Sources */,
+				22DF7D2228859B6000BF9FE6 /* RotateButton.swift in Sources */,
 				22C586AE28843F8E005971EF /* RotateButtonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
